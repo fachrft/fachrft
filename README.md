@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fachrft&label=Profile%20views&color=0e75b6&style=flat" alt="fachrft" /> </p>
 
-- 🌱 I’m currently learning **ExpressJs, ReactJs, Laravel**
-
-- 👨‍💻 All of my projects are available at [https://fachr.netlify.app/](https://fachr.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://fachr.vercel.app/](https://fachr.vercel.app/)
 
 - 💬 Ask me about **Web Development & Linux**
 
