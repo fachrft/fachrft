@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fachrifat Zhafran Triyadi</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<h3 align="center">A passionate fullstack developer from Indonesia</h3>
 <img align="right" alt="minato" width="400" src="https://media3.giphy.com/media/MtJwM5N4fuMgw/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fachrft&label=Profile%20views&color=0e75b6&style=flat" alt="fachrft" /> </p>
